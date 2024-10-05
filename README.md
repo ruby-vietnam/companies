@@ -31,7 +31,7 @@ Sample:
 
 
 ### E
-
+- [EmploymentHero](https://employmenthero.com/) - cloud-based HR, payroll and benefits platform
 
 
 ### F
@@ -43,11 +43,11 @@ Sample:
 
 
 ### H
-
+- [Holistics](https://www.holistics.io/) - Self-service BI Platform
 
 
 ### I
-
+- [ITViec](https://itviec.com/) - software developer jobs in Vietnam
 
 
 ### J
