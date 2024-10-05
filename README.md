@@ -15,7 +15,7 @@ Sample:
 - [Company Name](https://example.com) - Brief description about the company and its use of Ruby
 
 ### A
-- [Ascenda](https://www.ascenda.com/) - [github](https://github.com/Kaligo/) - Ascenda - Loyalty platform
+- [Ascenda](https://www.ascenda.com/) - [github](https://github.com/Kaligo/)  - Loyalty platform
 
 
 ### B
