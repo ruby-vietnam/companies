@@ -27,7 +27,7 @@ Sample:
 
 
 ### D
-
+- [Deliveree](https://deliveree.com/) - Delivery provider operating in Indonesia, Philippines, and Thailand
 
 
 ### E
