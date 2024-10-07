@@ -92,6 +92,7 @@ Sample:
 
 
 ### T
+- [Teqnological Asia](https://teqnological.asia/) - Software Development Services
 
 
 
@@ -116,3 +117,4 @@ Sample:
 
 
 ### Z
+- [ZIGExN VeNtura](https://zigexn.vn/) - software development and Internet services for the Japanese market
